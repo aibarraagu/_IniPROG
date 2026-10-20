@@ -1,0 +1,15 @@
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.AssemblyInfoInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.AssemblyInfo.cs
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.csproj.CoreCompileInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.sourcelink.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\bin\Debug\net10.0\UT2Ejer3Producto.exe
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\bin\Debug\net10.0\UT2Ejer3Producto.deps.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\bin\Debug\net10.0\UT2Ejer3Producto.runtimeconfig.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\bin\Debug\net10.0\UT2Ejer3Producto.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\bin\Debug\net10.0\UT2Ejer3Producto.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\refint\UT2Ejer3Producto.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\UT2Ejer3Producto.genruntimeconfig.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer3Producto\obj\Debug\net10.0\ref\UT2Ejer3Producto.dll

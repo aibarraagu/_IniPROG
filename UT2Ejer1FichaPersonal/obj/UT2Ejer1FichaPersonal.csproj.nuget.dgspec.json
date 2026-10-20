@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj": {}
+    "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj": {
+    "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj",
+        "projectUniqueName": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj",
         "projectName": "UT2Ejer1FichaPersonal",
-        "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj",
+        "projectPath": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\UT2Ejer1FichaPersonal.csproj",
         "packagesPath": "C:\\Users\\Asier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\obj\\",
+        "outputPath": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer1FichaPersonal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asier\\AppData\\Roaming\\NuGet\\NuGet.Config"

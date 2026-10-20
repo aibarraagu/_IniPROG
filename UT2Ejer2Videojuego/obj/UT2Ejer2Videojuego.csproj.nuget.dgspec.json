@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj": {}
+    "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj": {
+    "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj",
+        "projectUniqueName": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj",
         "projectName": "UT2Ejer2Videojuego",
-        "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj",
+        "projectPath": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\UT2Ejer2Videojuego.csproj",
         "packagesPath": "C:\\Users\\Asier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\obj\\",
+        "outputPath": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer2Videojuego\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asier\\AppData\\Roaming\\NuGet\\NuGet.Config"
