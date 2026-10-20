@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UT2Ejer2Videojuego")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c850b03c1244738a77253adf9bbd1a6bc121b8a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d7e8e27a875f9686f12ef6a73a25b1af13ae0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("UT2Ejer2Videojuego")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UT2Ejer2Videojuego")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,7 +5,8 @@ char clasificacionEdad = 'M';
 bool tieneMultijugador = false;
 float valoracion = 4.5f;
 
-Console.WriteLine("Nombre: " + numeroDeJugadores);
+Console.WriteLine("Nombre: " + nombreDelVideojuego);
+Console.WriteLine("Número de jugadores: " + numeroDeJugadores);
 Console.WriteLine("Precio: " + precio);
 Console.WriteLine("Clasifiacion de edad: " + clasificacionEdad);
 Console.WriteLine("Tiene multijugador: " + tieneMultijugador);
