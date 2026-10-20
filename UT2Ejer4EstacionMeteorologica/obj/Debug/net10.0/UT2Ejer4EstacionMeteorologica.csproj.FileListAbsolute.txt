@@ -1,0 +1,15 @@
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.AssemblyInfoInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.AssemblyInfo.cs
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.csproj.CoreCompileInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.sourcelink.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\bin\Debug\net10.0\UT2Ejer4EstacionMeteorologica.exe
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\bin\Debug\net10.0\UT2Ejer4EstacionMeteorologica.deps.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\bin\Debug\net10.0\UT2Ejer4EstacionMeteorologica.runtimeconfig.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\bin\Debug\net10.0\UT2Ejer4EstacionMeteorologica.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\bin\Debug\net10.0\UT2Ejer4EstacionMeteorologica.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\refint\UT2Ejer4EstacionMeteorologica.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\UT2Ejer4EstacionMeteorologica.genruntimeconfig.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer4EstacionMeteorologica\obj\Debug\net10.0\ref\UT2Ejer4EstacionMeteorologica.dll
