@@ -1,0 +1,15 @@
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\bin\Debug\net10.0\UT2Ejer1FichaPersonal.exe
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\bin\Debug\net10.0\UT2Ejer1FichaPersonal.deps.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\bin\Debug\net10.0\UT2Ejer1FichaPersonal.runtimeconfig.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\bin\Debug\net10.0\UT2Ejer1FichaPersonal.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\bin\Debug\net10.0\UT2Ejer1FichaPersonal.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.AssemblyInfoInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.AssemblyInfo.cs
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.csproj.CoreCompileInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.sourcelink.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\refint\UT2Ejer1FichaPersonal.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\UT2Ejer1FichaPersonal.genruntimeconfig.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer1FichaPersonal\obj\Debug\net10.0\ref\UT2Ejer1FichaPersonal.dll

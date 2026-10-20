@@ -1,0 +1,15 @@
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\bin\Debug\net10.0\UT2Ejer2Videojuego.exe
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\bin\Debug\net10.0\UT2Ejer2Videojuego.deps.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\bin\Debug\net10.0\UT2Ejer2Videojuego.runtimeconfig.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\bin\Debug\net10.0\UT2Ejer2Videojuego.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\bin\Debug\net10.0\UT2Ejer2Videojuego.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.AssemblyInfoInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.AssemblyInfo.cs
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.sourcelink.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\refint\UT2Ejer2Videojuego.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\UT2Ejer2Videojuego.genruntimeconfig.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer2Videojuego\obj\Debug\net10.0\ref\UT2Ejer2Videojuego.dll
