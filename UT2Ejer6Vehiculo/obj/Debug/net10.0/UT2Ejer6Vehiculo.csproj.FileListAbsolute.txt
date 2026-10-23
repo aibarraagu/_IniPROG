@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\bin\Debug\net10.0\UT2Ejer6Vehiculo.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\bin\Debug\net10.0\UT2Ejer6Vehiculo.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\bin\Debug\net10.0\UT2Ejer6Vehiculo.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\bin\Debug\net10.0\UT2Ejer6Vehiculo.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\bin\Debug\net10.0\UT2Ejer6Vehiculo.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\refint\UT2Ejer6Vehiculo.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\UT2Ejer6Vehiculo.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer6Vehiculo\obj\Debug\net10.0\ref\UT2Ejer6Vehiculo.dll
