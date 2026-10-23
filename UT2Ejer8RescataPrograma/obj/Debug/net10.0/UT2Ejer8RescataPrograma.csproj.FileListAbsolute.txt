@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\bin\Debug\net10.0\UT2Ejer8RescataPrograma.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\bin\Debug\net10.0\UT2Ejer8RescataPrograma.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\bin\Debug\net10.0\UT2Ejer8RescataPrograma.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\bin\Debug\net10.0\UT2Ejer8RescataPrograma.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\bin\Debug\net10.0\UT2Ejer8RescataPrograma.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\refint\UT2Ejer8RescataPrograma.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\UT2Ejer8RescataPrograma.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer8RescataPrograma\obj\Debug\net10.0\ref\UT2Ejer8RescataPrograma.dll
