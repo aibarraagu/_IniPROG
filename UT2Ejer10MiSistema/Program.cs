@@ -1,0 +1,21 @@
+﻿string nombreCliente = "Marius";
+int edad = 17;
+char inicialCliente = 'M';
+string numeroHabitacion = "124";
+double? cantidadACobrar = 134.59;
+bool haPagado = false;
+double horaDePartidaAntesDeNuevoCobro = 12.3;
+bool clientePremium = true;
+int nochesRestantes = 3;
+string zona = "Premium";
+
+Console.WriteLine("Nombre de cliente: " + nombreCliente);
+Console.WriteLine("Edad cliente: " + edad);
+Console.WriteLine("Inicial de cliente: " + inicialCliente);
+Console.WriteLine("Número de habitación: " + numeroHabitacion);
+Console.WriteLine("Cantidad a cobrar: " + cantidadACobrar);
+Console.WriteLine("Ha pagado: " + haPagado);
+Console.WriteLine("hora De Partida Antes De Nuevo Cobro: " + horaDePartidaAntesDeNuevoCobro);
+Console.WriteLine("El cliente es premium: " + clientePremium);
+Console.WriteLine("Noches restantes: " + nochesRestantes);
+Console.WriteLine("Zona en la que está el cliente: " + zona);

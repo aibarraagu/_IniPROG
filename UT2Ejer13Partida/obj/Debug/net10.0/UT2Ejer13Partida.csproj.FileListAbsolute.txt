@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\bin\Debug\net10.0\UT2Ejer13Partida.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\bin\Debug\net10.0\UT2Ejer13Partida.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\bin\Debug\net10.0\UT2Ejer13Partida.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\bin\Debug\net10.0\UT2Ejer13Partida.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\bin\Debug\net10.0\UT2Ejer13Partida.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\refint\UT2Ejer13Partida.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\UT2Ejer13Partida.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer13Partida\obj\Debug\net10.0\ref\UT2Ejer13Partida.dll

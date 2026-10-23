@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\bin\Debug\net10.0\UT2Ejer11Calculadora.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\bin\Debug\net10.0\UT2Ejer11Calculadora.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\bin\Debug\net10.0\UT2Ejer11Calculadora.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\bin\Debug\net10.0\UT2Ejer11Calculadora.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\bin\Debug\net10.0\UT2Ejer11Calculadora.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\refint\UT2Ejer11Calculadora.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\UT2Ejer11Calculadora.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer11Calculadora\obj\Debug\net10.0\ref\UT2Ejer11Calculadora.dll

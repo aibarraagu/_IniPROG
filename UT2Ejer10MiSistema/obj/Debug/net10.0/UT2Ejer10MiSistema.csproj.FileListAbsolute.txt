@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\bin\Debug\net10.0\UT2Ejer10MiSistema.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\bin\Debug\net10.0\UT2Ejer10MiSistema.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\bin\Debug\net10.0\UT2Ejer10MiSistema.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\bin\Debug\net10.0\UT2Ejer10MiSistema.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\bin\Debug\net10.0\UT2Ejer10MiSistema.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\refint\UT2Ejer10MiSistema.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\UT2Ejer10MiSistema.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer10MiSistema\obj\Debug\net10.0\ref\UT2Ejer10MiSistema.dll

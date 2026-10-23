@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\bin\Debug\net10.0\UT2Ejer12RepartoMonedas.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\bin\Debug\net10.0\UT2Ejer12RepartoMonedas.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\bin\Debug\net10.0\UT2Ejer12RepartoMonedas.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\bin\Debug\net10.0\UT2Ejer12RepartoMonedas.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\bin\Debug\net10.0\UT2Ejer12RepartoMonedas.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\refint\UT2Ejer12RepartoMonedas.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\UT2Ejer12RepartoMonedas.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer12RepartoMonedas\obj\Debug\net10.0\ref\UT2Ejer12RepartoMonedas.dll
