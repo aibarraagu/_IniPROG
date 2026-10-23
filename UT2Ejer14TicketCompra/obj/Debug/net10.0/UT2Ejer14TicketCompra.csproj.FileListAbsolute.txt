@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\bin\Debug\net10.0\UT2Ejer14TicketCompra.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\bin\Debug\net10.0\UT2Ejer14TicketCompra.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\bin\Debug\net10.0\UT2Ejer14TicketCompra.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\bin\Debug\net10.0\UT2Ejer14TicketCompra.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\bin\Debug\net10.0\UT2Ejer14TicketCompra.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\refint\UT2Ejer14TicketCompra.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\UT2Ejer14TicketCompra.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer14TicketCompra\obj\Debug\net10.0\ref\UT2Ejer14TicketCompra.dll
