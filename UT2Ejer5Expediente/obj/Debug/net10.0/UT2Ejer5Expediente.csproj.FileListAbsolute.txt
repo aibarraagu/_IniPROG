@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\bin\Debug\net10.0\UT2Ejer5Expediente.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\bin\Debug\net10.0\UT2Ejer5Expediente.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\bin\Debug\net10.0\UT2Ejer5Expediente.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\bin\Debug\net10.0\UT2Ejer5Expediente.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\bin\Debug\net10.0\UT2Ejer5Expediente.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\refint\UT2Ejer5Expediente.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\UT2Ejer5Expediente.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer5Expediente\obj\Debug\net10.0\ref\UT2Ejer5Expediente.dll
