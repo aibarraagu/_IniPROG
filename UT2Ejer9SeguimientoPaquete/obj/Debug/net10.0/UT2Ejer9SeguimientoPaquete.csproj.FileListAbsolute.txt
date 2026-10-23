@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\bin\Debug\net10.0\UT2Ejer9SeguimientoPaquete.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\bin\Debug\net10.0\UT2Ejer9SeguimientoPaquete.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\bin\Debug\net10.0\UT2Ejer9SeguimientoPaquete.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\bin\Debug\net10.0\UT2Ejer9SeguimientoPaquete.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\bin\Debug\net10.0\UT2Ejer9SeguimientoPaquete.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\refint\UT2Ejer9SeguimientoPaquete.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\UT2Ejer9SeguimientoPaquete.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer9SeguimientoPaquete\obj\Debug\net10.0\ref\UT2Ejer9SeguimientoPaquete.dll
