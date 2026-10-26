@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\bin\Debug\net10.0\UT2Ejer19SistemaAcceso.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\bin\Debug\net10.0\UT2Ejer19SistemaAcceso.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\bin\Debug\net10.0\UT2Ejer19SistemaAcceso.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\bin\Debug\net10.0\UT2Ejer19SistemaAcceso.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\bin\Debug\net10.0\UT2Ejer19SistemaAcceso.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\refint\UT2Ejer19SistemaAcceso.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\UT2Ejer19SistemaAcceso.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer19SistemaAcceso\obj\Debug\net10.0\ref\UT2Ejer19SistemaAcceso.dll

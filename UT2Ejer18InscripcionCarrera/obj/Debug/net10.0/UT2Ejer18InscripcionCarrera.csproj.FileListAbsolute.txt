@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\bin\Debug\net10.0\UT2Ejer18InscripcionCarrera.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\bin\Debug\net10.0\UT2Ejer18InscripcionCarrera.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\bin\Debug\net10.0\UT2Ejer18InscripcionCarrera.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\bin\Debug\net10.0\UT2Ejer18InscripcionCarrera.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\bin\Debug\net10.0\UT2Ejer18InscripcionCarrera.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\refint\UT2Ejer18InscripcionCarrera.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\UT2Ejer18InscripcionCarrera.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer18InscripcionCarrera\obj\Debug\net10.0\ref\UT2Ejer18InscripcionCarrera.dll
