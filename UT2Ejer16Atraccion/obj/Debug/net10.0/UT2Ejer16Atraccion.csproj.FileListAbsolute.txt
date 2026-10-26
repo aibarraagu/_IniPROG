@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\bin\Debug\net10.0\UT2Ejer16Atraccion.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\bin\Debug\net10.0\UT2Ejer16Atraccion.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\bin\Debug\net10.0\UT2Ejer16Atraccion.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\bin\Debug\net10.0\UT2Ejer16Atraccion.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\bin\Debug\net10.0\UT2Ejer16Atraccion.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\refint\UT2Ejer16Atraccion.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\UT2Ejer16Atraccion.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer16Atraccion\obj\Debug\net10.0\ref\UT2Ejer16Atraccion.dll

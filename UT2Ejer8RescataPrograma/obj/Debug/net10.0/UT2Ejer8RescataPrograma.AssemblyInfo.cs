@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UT2Ejer8RescataPrograma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d2fba75ce288446723c5baf9e0e9739af75024f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdc88303112c64a523d752e8e602bffe8980c80")]
 [assembly: System.Reflection.AssemblyProductAttribute("UT2Ejer8RescataPrograma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UT2Ejer8RescataPrograma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

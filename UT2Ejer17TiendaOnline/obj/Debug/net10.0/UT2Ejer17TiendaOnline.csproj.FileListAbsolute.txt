@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\bin\Debug\net10.0\UT2Ejer17TiendaOnline.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\bin\Debug\net10.0\UT2Ejer17TiendaOnline.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\bin\Debug\net10.0\UT2Ejer17TiendaOnline.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\bin\Debug\net10.0\UT2Ejer17TiendaOnline.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\bin\Debug\net10.0\UT2Ejer17TiendaOnline.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\refint\UT2Ejer17TiendaOnline.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\UT2Ejer17TiendaOnline.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer17TiendaOnline\obj\Debug\net10.0\ref\UT2Ejer17TiendaOnline.dll

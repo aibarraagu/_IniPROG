@@ -1,4 +1,12 @@
 ﻿double examen1 = 6.5;
 double examen2 = 8.0;
 double examen3 = 5.5; 
-https://moodle.mariaanasanz.es/mod/book/view.php?id=40236&chapterid=1707#mod_book-chapter
+double notaMedia = (examen1 + examen2 + examen3) /3;
+
+bool estaAprobado = notaMedia >= 5;
+
+Console.WriteLine("Nota 1: " + examen1);
+Console.WriteLine("Nota 2: " + examen2);
+Console.WriteLine("Nota 3: " + examen3);
+Console.WriteLine("Nota media: " + notaMedia);
+Console.WriteLine("¿Está aprobado?: " + estaAprobado);
