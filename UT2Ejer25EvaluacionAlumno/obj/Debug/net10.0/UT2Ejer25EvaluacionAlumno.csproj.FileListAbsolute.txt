@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\bin\Debug\net10.0\UT2Ejer25EvaluacionAlumno.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\bin\Debug\net10.0\UT2Ejer25EvaluacionAlumno.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\bin\Debug\net10.0\UT2Ejer25EvaluacionAlumno.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\bin\Debug\net10.0\UT2Ejer25EvaluacionAlumno.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\bin\Debug\net10.0\UT2Ejer25EvaluacionAlumno.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\refint\UT2Ejer25EvaluacionAlumno.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\UT2Ejer25EvaluacionAlumno.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer25EvaluacionAlumno\obj\Debug\net10.0\ref\UT2Ejer25EvaluacionAlumno.dll

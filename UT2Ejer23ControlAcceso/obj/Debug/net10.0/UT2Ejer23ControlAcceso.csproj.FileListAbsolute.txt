@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\bin\Debug\net10.0\UT2Ejer23ControlAcceso.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\bin\Debug\net10.0\UT2Ejer23ControlAcceso.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\bin\Debug\net10.0\UT2Ejer23ControlAcceso.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\bin\Debug\net10.0\UT2Ejer23ControlAcceso.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\bin\Debug\net10.0\UT2Ejer23ControlAcceso.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\refint\UT2Ejer23ControlAcceso.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\UT2Ejer23ControlAcceso.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer23ControlAcceso\obj\Debug\net10.0\ref\UT2Ejer23ControlAcceso.dll

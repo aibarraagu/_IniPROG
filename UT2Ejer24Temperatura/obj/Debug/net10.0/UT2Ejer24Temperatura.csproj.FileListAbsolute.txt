@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\bin\Debug\net10.0\UT2Ejer24Temperatura.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\bin\Debug\net10.0\UT2Ejer24Temperatura.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\bin\Debug\net10.0\UT2Ejer24Temperatura.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\bin\Debug\net10.0\UT2Ejer24Temperatura.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\bin\Debug\net10.0\UT2Ejer24Temperatura.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\refint\UT2Ejer24Temperatura.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\UT2Ejer24Temperatura.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer24Temperatura\obj\Debug\net10.0\ref\UT2Ejer24Temperatura.dll
