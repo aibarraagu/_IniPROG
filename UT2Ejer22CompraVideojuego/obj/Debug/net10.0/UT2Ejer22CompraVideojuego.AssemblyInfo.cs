@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UT2Ejer22CompraVideojuego")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a0c2d25ceb8a20a86e0632d711b179302995b56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa79c9e93b1a422e9fb5901b66a7e079d02bdc8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UT2Ejer22CompraVideojuego")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UT2Ejer22CompraVideojuego")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

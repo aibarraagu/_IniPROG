@@ -1,0 +1,15 @@
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\bin\Debug\net10.0\UT2Ejer27CalculadoraSwitch.exe
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\bin\Debug\net10.0\UT2Ejer27CalculadoraSwitch.deps.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\bin\Debug\net10.0\UT2Ejer27CalculadoraSwitch.runtimeconfig.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\bin\Debug\net10.0\UT2Ejer27CalculadoraSwitch.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\bin\Debug\net10.0\UT2Ejer27CalculadoraSwitch.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.AssemblyInfoInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.AssemblyInfo.cs
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.sourcelink.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\refint\UT2Ejer27CalculadoraSwitch.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\UT2Ejer27CalculadoraSwitch.genruntimeconfig.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer27CalculadoraSwitch\obj\Debug\net10.0\ref\UT2Ejer27CalculadoraSwitch.dll

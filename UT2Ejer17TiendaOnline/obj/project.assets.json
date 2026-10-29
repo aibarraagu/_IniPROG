@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer17TiendaOnline\\UT2Ejer17TiendaOnline.csproj",
+      "projectUniqueName": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer17TiendaOnline\\UT2Ejer17TiendaOnline.csproj",
       "projectName": "UT2Ejer17TiendaOnline",
-      "projectPath": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer17TiendaOnline\\UT2Ejer17TiendaOnline.csproj",
+      "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer17TiendaOnline\\UT2Ejer17TiendaOnline.csproj",
       "packagesPath": "C:\\Users\\Asier\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer17TiendaOnline\\obj\\",
+      "outputPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer17TiendaOnline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asier\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -344,5 +344,13 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer17TiendaOnline\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }
