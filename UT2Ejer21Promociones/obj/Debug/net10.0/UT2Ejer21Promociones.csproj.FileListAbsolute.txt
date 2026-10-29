@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\bin\Debug\net10.0\UT2Ejer21Promociones.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\bin\Debug\net10.0\UT2Ejer21Promociones.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\bin\Debug\net10.0\UT2Ejer21Promociones.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\bin\Debug\net10.0\UT2Ejer21Promociones.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\bin\Debug\net10.0\UT2Ejer21Promociones.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\refint\UT2Ejer21Promociones.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\UT2Ejer21Promociones.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer21Promociones\obj\Debug\net10.0\ref\UT2Ejer21Promociones.dll

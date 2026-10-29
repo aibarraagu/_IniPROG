@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\bin\Debug\net10.0\UT2Ejer22CompraVideojuego.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\bin\Debug\net10.0\UT2Ejer22CompraVideojuego.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\bin\Debug\net10.0\UT2Ejer22CompraVideojuego.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\bin\Debug\net10.0\UT2Ejer22CompraVideojuego.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\bin\Debug\net10.0\UT2Ejer22CompraVideojuego.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\refint\UT2Ejer22CompraVideojuego.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\UT2Ejer22CompraVideojuego.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer22CompraVideojuego\obj\Debug\net10.0\ref\UT2Ejer22CompraVideojuego.dll

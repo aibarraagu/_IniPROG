@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\bin\Debug\net10.0\UT2Ejer26MenuRestaurante.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\bin\Debug\net10.0\UT2Ejer26MenuRestaurante.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\bin\Debug\net10.0\UT2Ejer26MenuRestaurante.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\bin\Debug\net10.0\UT2Ejer26MenuRestaurante.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\bin\Debug\net10.0\UT2Ejer26MenuRestaurante.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\refint\UT2Ejer26MenuRestaurante.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\UT2Ejer26MenuRestaurante.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer26MenuRestaurante\obj\Debug\net10.0\ref\UT2Ejer26MenuRestaurante.dll

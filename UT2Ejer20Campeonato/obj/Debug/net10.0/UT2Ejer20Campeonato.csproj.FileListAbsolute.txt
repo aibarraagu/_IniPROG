@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\bin\Debug\net10.0\UT2Ejer20Campeonato.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\bin\Debug\net10.0\UT2Ejer20Campeonato.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\bin\Debug\net10.0\UT2Ejer20Campeonato.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\bin\Debug\net10.0\UT2Ejer20Campeonato.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\bin\Debug\net10.0\UT2Ejer20Campeonato.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\refint\UT2Ejer20Campeonato.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\UT2Ejer20Campeonato.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer20Campeonato\obj\Debug\net10.0\ref\UT2Ejer20Campeonato.dll
