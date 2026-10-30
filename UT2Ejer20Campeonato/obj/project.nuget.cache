@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bE9UZqephsM=",
+  "dgSpecHash": "o+rpHBpruQg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer20Campeonato\\UT2Ejer20Campeonato.csproj",
+  "projectFilePath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer20Campeonato\\UT2Ejer20Campeonato.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer20Campeonato\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer20Campeonato\\UT2Ejer20Campeonato.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer20Campeonato\\UT2Ejer20Campeonato.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }

@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WN4T8NbsCD0=",
+  "dgSpecHash": "4c4UMz67nHU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer18InscripcionCarrera\\UT2Ejer18InscripcionCarrera.csproj",
+  "projectFilePath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer18InscripcionCarrera\\UT2Ejer18InscripcionCarrera.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer18InscripcionCarrera\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer18InscripcionCarrera\\UT2Ejer18InscripcionCarrera.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer18InscripcionCarrera\\UT2Ejer18InscripcionCarrera.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
