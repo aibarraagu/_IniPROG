@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\bin\Debug\net10.0\UT2Ejer28PrecioEntrada.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\bin\Debug\net10.0\UT2Ejer28PrecioEntrada.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\bin\Debug\net10.0\UT2Ejer28PrecioEntrada.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\bin\Debug\net10.0\UT2Ejer28PrecioEntrada.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\bin\Debug\net10.0\UT2Ejer28PrecioEntrada.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\refint\UT2Ejer28PrecioEntrada.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\UT2Ejer28PrecioEntrada.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer28PrecioEntrada\obj\Debug\net10.0\ref\UT2Ejer28PrecioEntrada.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UT2Ejer12RepartoMonedas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee82a23a022c368d2b26c0781bcb56e147a3d76c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c8172de8dce9753c2c56f4011895afce452735")]
 [assembly: System.Reflection.AssemblyProductAttribute("UT2Ejer12RepartoMonedas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UT2Ejer12RepartoMonedas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
