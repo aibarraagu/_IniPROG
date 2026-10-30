@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UT2Ejer28PrecioEntrada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3c8172de8dce9753c2c56f4011895afce452735")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8271b0c471b5795550788fd329e2044e21e9c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("UT2Ejer28PrecioEntrada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UT2Ejer28PrecioEntrada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

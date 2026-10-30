@@ -1,0 +1,15 @@
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\bin\Debug\net10.0\UT2Ejer29Permisos.exe
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\bin\Debug\net10.0\UT2Ejer29Permisos.deps.json
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\bin\Debug\net10.0\UT2Ejer29Permisos.runtimeconfig.json
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\bin\Debug\net10.0\UT2Ejer29Permisos.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\bin\Debug\net10.0\UT2Ejer29Permisos.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.GeneratedMSBuildEditorConfig.editorconfig
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.AssemblyInfoInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.AssemblyInfo.cs
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.csproj.CoreCompileInputs.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.sourcelink.json
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\refint\UT2Ejer29Permisos.dll
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.pdb
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\UT2Ejer29Permisos.genruntimeconfig.cache
+C:\datos\Pictures\_IniPROG\UT2Ejer29Permisos\obj\Debug\net10.0\ref\UT2Ejer29Permisos.dll
