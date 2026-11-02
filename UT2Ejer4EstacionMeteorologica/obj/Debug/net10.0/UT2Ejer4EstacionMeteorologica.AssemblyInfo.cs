@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UT2Ejer4EstacionMeteorologica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee82a23a022c368d2b26c0781bcb56e147a3d76c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd54e33924eb720df5e75e5580a1aa33868748ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("UT2Ejer4EstacionMeteorologica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UT2Ejer4EstacionMeteorologica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

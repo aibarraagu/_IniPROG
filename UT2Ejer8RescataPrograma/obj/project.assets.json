@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asier\\.nuget\\packages\\": {}
+    "C:\\Users\\aibarraagu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer8RescataPrograma\\UT2Ejer8RescataPrograma.csproj",
+      "projectUniqueName": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer8RescataPrograma\\UT2Ejer8RescataPrograma.csproj",
       "projectName": "UT2Ejer8RescataPrograma",
-      "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer8RescataPrograma\\UT2Ejer8RescataPrograma.csproj",
-      "packagesPath": "C:\\Users\\Asier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer8RescataPrograma\\obj\\",
+      "projectPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer8RescataPrograma\\UT2Ejer8RescataPrograma.csproj",
+      "packagesPath": "C:\\Users\\aibarraagu\\.nuget\\packages\\",
+      "outputPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer8RescataPrograma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asier\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aibarraagu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
