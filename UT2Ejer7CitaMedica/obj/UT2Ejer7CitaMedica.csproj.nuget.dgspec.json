@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj": {}
+    "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj": {
+    "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj",
+        "projectUniqueName": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj",
         "projectName": "UT2Ejer7CitaMedica",
-        "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj",
-        "packagesPath": "C:\\Users\\Asier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\obj\\",
+        "projectPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\UT2Ejer7CitaMedica.csproj",
+        "packagesPath": "C:\\Users\\aibarraagu\\.nuget\\packages\\",
+        "outputPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer7CitaMedica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Asier\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aibarraagu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

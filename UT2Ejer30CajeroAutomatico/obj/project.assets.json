@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asier\\.nuget\\packages\\": {}
+    "C:\\Users\\aibarraagu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\UT2Ejer30CajeroAutomatico.csproj",
+      "projectUniqueName": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\UT2Ejer30CajeroAutomatico.csproj",
       "projectName": "UT2Ejer30CajeroAutomatico",
-      "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\UT2Ejer30CajeroAutomatico.csproj",
-      "packagesPath": "C:\\Users\\Asier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\obj\\",
+      "projectPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\UT2Ejer30CajeroAutomatico.csproj",
+      "packagesPath": "C:\\Users\\aibarraagu\\.nuget\\packages\\",
+      "outputPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asier\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aibarraagu\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -344,5 +344,13 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
+    }
+  ]
 }
