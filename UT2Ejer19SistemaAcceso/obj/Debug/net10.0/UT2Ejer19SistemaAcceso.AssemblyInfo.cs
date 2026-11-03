@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UT2Ejer19SistemaAcceso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd54e33924eb720df5e75e5580a1aa33868748ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b085034516751621b12c0f8af589137b83402de4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UT2Ejer19SistemaAcceso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UT2Ejer19SistemaAcceso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
