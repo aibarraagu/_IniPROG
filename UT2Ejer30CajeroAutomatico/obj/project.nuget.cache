@@ -4,5 +4,15 @@
   "success": true,
   "projectFilePath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\UT2Ejer30CajeroAutomatico.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\UT2Ejer30CajeroAutomatico.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer30CajeroAutomatico\\UT2Ejer30CajeroAutomatico.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj": {}
+    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj": {}
   },
   "projects": {
-    "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj": {
+    "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj",
+        "projectUniqueName": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj",
         "projectName": "UT2Ejer12RepartoMonedas",
-        "projectPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj",
-        "packagesPath": "C:\\Users\\aibarraagu\\.nuget\\packages\\",
-        "outputPath": "C:\\datos\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\obj\\",
+        "projectPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\UT2Ejer12RepartoMonedas.csproj",
+        "packagesPath": "C:\\Users\\Asier\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asier\\Pictures\\_IniPROG\\UT2Ejer12RepartoMonedas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aibarraagu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Asier\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"

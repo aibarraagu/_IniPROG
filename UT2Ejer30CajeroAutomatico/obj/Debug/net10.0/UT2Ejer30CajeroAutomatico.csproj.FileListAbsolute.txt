@@ -1,0 +1,15 @@
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.AssemblyInfoInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.AssemblyInfo.cs
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.sourcelink.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\bin\Debug\net10.0\UT2Ejer30CajeroAutomatico.exe
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\bin\Debug\net10.0\UT2Ejer30CajeroAutomatico.deps.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\bin\Debug\net10.0\UT2Ejer30CajeroAutomatico.runtimeconfig.json
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\bin\Debug\net10.0\UT2Ejer30CajeroAutomatico.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\bin\Debug\net10.0\UT2Ejer30CajeroAutomatico.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\refint\UT2Ejer30CajeroAutomatico.dll
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.pdb
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\UT2Ejer30CajeroAutomatico.genruntimeconfig.cache
+C:\Users\Asier\Pictures\_IniPROG\UT2Ejer30CajeroAutomatico\obj\Debug\net10.0\ref\UT2Ejer30CajeroAutomatico.dll
